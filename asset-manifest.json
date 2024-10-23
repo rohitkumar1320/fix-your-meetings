@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fix-your-meetings/static/css/main.b83f29d2.css",
+    "main.js": "/fix-your-meetings/static/js/main.99a3afe2.js",
+    "static/js/511.ab1a2170.chunk.js": "/fix-your-meetings/static/js/511.ab1a2170.chunk.js",
+    "static/media/work.gif": "/fix-your-meetings/static/media/work.ab88613f290c8791144b.gif",
+    "index.html": "/fix-your-meetings/index.html",
+    "main.b83f29d2.css.map": "/fix-your-meetings/static/css/main.b83f29d2.css.map",
+    "main.99a3afe2.js.map": "/fix-your-meetings/static/js/main.99a3afe2.js.map",
+    "511.ab1a2170.chunk.js.map": "/fix-your-meetings/static/js/511.ab1a2170.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b83f29d2.css",
+    "static/js/main.99a3afe2.js"
+  ]
+}
